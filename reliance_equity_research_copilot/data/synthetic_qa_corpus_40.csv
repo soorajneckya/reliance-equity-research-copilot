@@ -1,0 +1,41 @@
+qa_id,question,answer,source_type
+QA001,What is the investment horizon?,"Three to five years, with five years as the default.",synthetic educational corpus
+QA002,What is self-consistency?,Repeat an assessment and compare outputs; unstable votes should be escalated.,synthetic educational corpus
+QA003,What is tree-of-thoughts used for?,"Comparing bull, base, and bear scenarios with explicit assumptions.",synthetic educational corpus
+QA004,What is drawdown?,The percentage decline from a previous peak to a later trough.,synthetic educational corpus
+QA005,What is CAGR?,The annualized compounded growth rate between a start and end value.,synthetic educational corpus
+QA006,How should synthetic headlines be used?,"For prompt development only, never as real news or filings.",synthetic educational corpus
+QA007,What happens if the price dataset is missing?,Use only a labelled synthetic demo and block any publishable rating.,synthetic educational corpus
+QA008,What does BUY mean here?,"An educational research label under stated assumptions, not investment advice.",synthetic educational corpus
+QA009,When should the system escalate?,"When evidence is missing, votes split, confidence is low, or assumptions are unverified.",synthetic educational corpus
+QA010,What must every output include?,Educational research support only; not investment advice.,synthetic educational corpus
+QA011,How should mixed revenue and EBITDA trends be read?,It can indicate margin compression or mix effects; inspect segment and cost evidence.,synthetic educational corpus
+QA012,Why is high capex not automatically positive?,Capex may support growth but can raise leverage and execution risk; assess returns and funding.,synthetic educational corpus
+QA013,Why use few-shot examples?,Examples clarify labels and improve consistency on recurring edge cases.,synthetic educational corpus
+QA014,How should an ambiguous acquisition be labelled?,"Use merger/acquisition and Ambiguous when terms, valuation, approvals, or benefits are unclear.",synthetic educational corpus
+QA015,Which evidence supports a long-term rating?,"Use dated report evidence, audited ratios, verified price statistics, risks, and explicit assumptions.",synthetic educational corpus
+QA016,What can a high debt-to-equity ratio indicate?,"It can indicate higher leverage; interpret it with cash flows, business model, and reporting basis.",synthetic educational corpus
+QA017,How is context preserved across turns?,"Carry a compact company context, rating, assumptions, and open questions into each turn.",synthetic educational corpus
+QA018,What does volatility measure?,Volatility measures return variability; annualized daily volatility commonly uses daily standard deviation times square root of 252.,synthetic educational corpus
+QA019,Why can zero-shot classification fail?,"Negation, mixed signals, missing details, and unsupported causal inference can confuse it.",synthetic educational corpus
+QA020,What does the analyst review gate do?,It prevents low-confidence or unsupported outputs from being published without human verification.,synthetic educational corpus
+QA021,How should mixed revenue and EBITDA trends be read?,It can indicate margin compression or mix effects; inspect segment and cost evidence.,synthetic educational corpus
+QA022,Why is high capex not automatically positive?,Capex may support growth but can raise leverage and execution risk; assess returns and funding.,synthetic educational corpus
+QA023,Why use few-shot examples?,Examples clarify labels and improve consistency on recurring edge cases.,synthetic educational corpus
+QA024,How should an ambiguous acquisition be labelled?,"Use merger/acquisition and Ambiguous when terms, valuation, approvals, or benefits are unclear.",synthetic educational corpus
+QA025,Which evidence supports a long-term rating?,"Use dated report evidence, audited ratios, verified price statistics, risks, and explicit assumptions.",synthetic educational corpus
+QA026,What can a high debt-to-equity ratio indicate?,"It can indicate higher leverage; interpret it with cash flows, business model, and reporting basis.",synthetic educational corpus
+QA027,How is context preserved across turns?,"Carry a compact company context, rating, assumptions, and open questions into each turn.",synthetic educational corpus
+QA028,What does volatility measure?,Volatility measures return variability; annualized daily volatility commonly uses daily standard deviation times square root of 252.,synthetic educational corpus
+QA029,Why can zero-shot classification fail?,"Negation, mixed signals, missing details, and unsupported causal inference can confuse it.",synthetic educational corpus
+QA030,What does the analyst review gate do?,It prevents low-confidence or unsupported outputs from being published without human verification.,synthetic educational corpus
+QA031,How should mixed revenue and EBITDA trends be read?,It can indicate margin compression or mix effects; inspect segment and cost evidence.,synthetic educational corpus
+QA032,Why is high capex not automatically positive?,Capex may support growth but can raise leverage and execution risk; assess returns and funding.,synthetic educational corpus
+QA033,Why use few-shot examples?,Examples clarify labels and improve consistency on recurring edge cases.,synthetic educational corpus
+QA034,How should an ambiguous acquisition be labelled?,"Use merger/acquisition and Ambiguous when terms, valuation, approvals, or benefits are unclear.",synthetic educational corpus
+QA035,Which evidence supports a long-term rating?,"Use dated report evidence, audited ratios, verified price statistics, risks, and explicit assumptions.",synthetic educational corpus
+QA036,What can a high debt-to-equity ratio indicate?,"It can indicate higher leverage; interpret it with cash flows, business model, and reporting basis.",synthetic educational corpus
+QA037,How is context preserved across turns?,"Carry a compact company context, rating, assumptions, and open questions into each turn.",synthetic educational corpus
+QA038,What does volatility measure?,Volatility measures return variability; annualized daily volatility commonly uses daily standard deviation times square root of 252.,synthetic educational corpus
+QA039,Why can zero-shot classification fail?,"Negation, mixed signals, missing details, and unsupported causal inference can confuse it.",synthetic educational corpus
+QA040,What does the analyst review gate do?,It prevents low-confidence or unsupported outputs from being published without human verification.,synthetic educational corpus

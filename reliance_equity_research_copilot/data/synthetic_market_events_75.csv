@@ -1,0 +1,76 @@
+event_id,headline_or_snippet,event_type,sentiment,is_synthetic
+SYN001,Reliance raises full-year revenue guidance after stronger digital demand.,Guidance,Positive,True
+SYN002,Reliance cuts EBITDA outlook due to weaker refining margins.,Guidance,Negative,True
+SYN003,Reliance reiterates its existing annual guidance.,Guidance,Neutral,True
+SYN004,A brokerage downgrades Reliance after lowering retail margin assumptions.,Analyst downgrade,Negative,True
+SYN005,"An analyst upgrades Reliance, citing stronger cash generation.",Analyst upgrade,Positive,True
+SYN006,Reliance announces a proposed acquisition but valuation terms are not disclosed.,Merger / acquisition,Ambiguous,True
+SYN007,Reliance announces a multi-year capex plan without expected returns.,Capital expenditure,Ambiguous,True
+SYN008,A project faces cost overruns and a delayed commissioning date.,Capital expenditure,Negative,True
+SYN009,"Quarterly EBITDA rises year on year, led by digital services and retail.",Earnings,Positive,True
+SYN010,"Revenue grows but EBITDA declines, leaving growth quality uncertain.",Earnings,Ambiguous,True
+SYN011,Net debt rises while operating cash flow weakens.,Debt / liquidity,Negative,True
+SYN012,Operating cash flow strengthens and net debt declines.,Debt / liquidity,Positive,True
+SYN013,A regulator opens an inquiry; no finding of wrongdoing has been announced.,Regulatory,Ambiguous,True
+SYN014,A plant outage disrupts production and reduces utilisation.,Operations,Negative,True
+SYN015,Reliance shares fall while the broad market is flat; the cause is unknown.,Market / price,Ambiguous,True
+SYN016,"The board proposes a higher dividend, subject to approval.",Dividend / capital return,Positive,True
+SYN017,Reliance announces a renewable-energy target without interim milestones.,ESG / sustainability,Ambiguous,True
+SYN018,Plant utilisation improves after scheduled maintenance.,Operations,Positive,True
+SYN019,Reliance shares outperform the market on elevated volume after results.,Market / price,Positive,True
+SYN020,A proposed transaction is delayed pending further regulatory information.,Merger / acquisition,Negative,True
+SYN021,Quarterly profit declines as input costs rise faster than revenue.,Earnings,Negative,True
+SYN022,A new facility starts commercial operations on schedule and within budget.,Capital expenditure,Positive,True
+SYN023,The board declares the same dividend per share as last year.,Dividend / capital return,Neutral,True
+SYN024,A new regulatory requirement increases compliance costs for telecom operators.,Regulatory,Negative,True
+SYN025,Management reviews its outlook but does not provide revised figures.,Guidance,Ambiguous,True
+SYN026,Scenario 26: Reliance raises full-year revenue guidance after stronger digital demand.,Guidance,Positive,True
+SYN027,Scenario 27: Reliance cuts EBITDA outlook due to weaker refining margins.,Guidance,Negative,True
+SYN028,Scenario 28: Reliance reiterates its existing annual guidance.,Guidance,Neutral,True
+SYN029,Scenario 29: A brokerage downgrades Reliance after lowering retail margin assumptions.,Analyst downgrade,Negative,True
+SYN030,"Scenario 30: An analyst upgrades Reliance, citing stronger cash generation.",Analyst upgrade,Positive,True
+SYN031,Scenario 31: Reliance announces a proposed acquisition but valuation terms are not disclosed.,Merger / acquisition,Ambiguous,True
+SYN032,Scenario 32: Reliance announces a multi-year capex plan without expected returns.,Capital expenditure,Ambiguous,True
+SYN033,Scenario 33: A project faces cost overruns and a delayed commissioning date.,Capital expenditure,Negative,True
+SYN034,"Scenario 34: Quarterly EBITDA rises year on year, led by digital services and retail.",Earnings,Positive,True
+SYN035,"Scenario 35: Revenue grows but EBITDA declines, leaving growth quality uncertain.",Earnings,Ambiguous,True
+SYN036,Scenario 36: Net debt rises while operating cash flow weakens.,Debt / liquidity,Negative,True
+SYN037,Scenario 37: Operating cash flow strengthens and net debt declines.,Debt / liquidity,Positive,True
+SYN038,Scenario 38: A regulator opens an inquiry; no finding of wrongdoing has been announced.,Regulatory,Ambiguous,True
+SYN039,Scenario 39: A plant outage disrupts production and reduces utilisation.,Operations,Negative,True
+SYN040,Scenario 40: Reliance shares fall while the broad market is flat; the cause is unknown.,Market / price,Ambiguous,True
+SYN041,"Scenario 41: The board proposes a higher dividend, subject to approval.",Dividend / capital return,Positive,True
+SYN042,Scenario 42: Reliance announces a renewable-energy target without interim milestones.,ESG / sustainability,Ambiguous,True
+SYN043,Scenario 43: Plant utilisation improves after scheduled maintenance.,Operations,Positive,True
+SYN044,Scenario 44: Reliance shares outperform the market on elevated volume after results.,Market / price,Positive,True
+SYN045,Scenario 45: A proposed transaction is delayed pending further regulatory information.,Merger / acquisition,Negative,True
+SYN046,Scenario 46: Quarterly profit declines as input costs rise faster than revenue.,Earnings,Negative,True
+SYN047,Scenario 47: A new facility starts commercial operations on schedule and within budget.,Capital expenditure,Positive,True
+SYN048,Scenario 48: The board declares the same dividend per share as last year.,Dividend / capital return,Neutral,True
+SYN049,Scenario 49: A new regulatory requirement increases compliance costs for telecom operators.,Regulatory,Negative,True
+SYN050,Scenario 50: Management reviews its outlook but does not provide revised figures.,Guidance,Ambiguous,True
+SYN051,Scenario 51: Reliance raises full-year revenue guidance after stronger digital demand.,Guidance,Positive,True
+SYN052,Scenario 52: Reliance cuts EBITDA outlook due to weaker refining margins.,Guidance,Negative,True
+SYN053,Scenario 53: Reliance reiterates its existing annual guidance.,Guidance,Neutral,True
+SYN054,Scenario 54: A brokerage downgrades Reliance after lowering retail margin assumptions.,Analyst downgrade,Negative,True
+SYN055,"Scenario 55: An analyst upgrades Reliance, citing stronger cash generation.",Analyst upgrade,Positive,True
+SYN056,Scenario 56: Reliance announces a proposed acquisition but valuation terms are not disclosed.,Merger / acquisition,Ambiguous,True
+SYN057,Scenario 57: Reliance announces a multi-year capex plan without expected returns.,Capital expenditure,Ambiguous,True
+SYN058,Scenario 58: A project faces cost overruns and a delayed commissioning date.,Capital expenditure,Negative,True
+SYN059,"Scenario 59: Quarterly EBITDA rises year on year, led by digital services and retail.",Earnings,Positive,True
+SYN060,"Scenario 60: Revenue grows but EBITDA declines, leaving growth quality uncertain.",Earnings,Ambiguous,True
+SYN061,Scenario 61: Net debt rises while operating cash flow weakens.,Debt / liquidity,Negative,True
+SYN062,Scenario 62: Operating cash flow strengthens and net debt declines.,Debt / liquidity,Positive,True
+SYN063,Scenario 63: A regulator opens an inquiry; no finding of wrongdoing has been announced.,Regulatory,Ambiguous,True
+SYN064,Scenario 64: A plant outage disrupts production and reduces utilisation.,Operations,Negative,True
+SYN065,Scenario 65: Reliance shares fall while the broad market is flat; the cause is unknown.,Market / price,Ambiguous,True
+SYN066,"Scenario 66: The board proposes a higher dividend, subject to approval.",Dividend / capital return,Positive,True
+SYN067,Scenario 67: Reliance announces a renewable-energy target without interim milestones.,ESG / sustainability,Ambiguous,True
+SYN068,Scenario 68: Plant utilisation improves after scheduled maintenance.,Operations,Positive,True
+SYN069,Scenario 69: Reliance shares outperform the market on elevated volume after results.,Market / price,Positive,True
+SYN070,Scenario 70: A proposed transaction is delayed pending further regulatory information.,Merger / acquisition,Negative,True
+SYN071,Scenario 71: Quarterly profit declines as input costs rise faster than revenue.,Earnings,Negative,True
+SYN072,Scenario 72: A new facility starts commercial operations on schedule and within budget.,Capital expenditure,Positive,True
+SYN073,Scenario 73: The board declares the same dividend per share as last year.,Dividend / capital return,Neutral,True
+SYN074,Scenario 74: A new regulatory requirement increases compliance costs for telecom operators.,Regulatory,Negative,True
+SYN075,Scenario 75: Management reviews its outlook but does not provide revised figures.,Guidance,Ambiguous,True
